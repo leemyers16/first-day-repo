@@ -7,3 +7,7 @@ function myFirst(){
         console.log('profit')
     }
 }
+
+function newBoi(){
+    return "hello world"
+}
